@@ -55,6 +55,7 @@ public class que {
 
     }
     public static void main(String[] args) {
+        
         Queue q = new Queue(5);
         Scanner sc = new Scanner(System.in);
         q.add(1);
